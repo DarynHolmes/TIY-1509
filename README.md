@@ -2,6 +2,8 @@
 
 # Welcome!!!
 
+Please use this time to get ready, if you need help ask 'Daryn'.
+
 Can you please make sure you have Ruby installed. 
 
 You can verify this in the console with:
@@ -17,3 +19,5 @@ You will also need a text editor - sublime is a good choice
 We will be using this Trello board - https://trello.com/b/mZn7EBmk/1509
 
 Please sign up to Tello and open that board. 
+
+Thanks!
