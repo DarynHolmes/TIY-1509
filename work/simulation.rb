@@ -1,5 +1,7 @@
 puts "Welcome to the Simulator!!!!!"
 
+correct_guess_count = 0
+
 5.times do 
 
 	card_1 = :joker
@@ -25,8 +27,8 @@ puts "Welcome to the Simulator!!!!!"
 	puts "The remaining card is #{cards}"
 
 	if (guessed_card == :jack)
-		puts "You should not swap, you guessed correctly"
-	else
-		puts "You should swap, you did not guess the Jack"
+		# correct_guess_count = correct_guess_count + 1
+		correct_guess_count += 1
 	end
 end
+
