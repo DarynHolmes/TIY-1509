@@ -1,5 +1,7 @@
 <p align="center"><img src ="http://theironyard.com/images/home/tiy-logo.png" /></p>
 
+# Welcome!!!
+
 Can you please make sure you have Ruby installed. 
 
 You can verify this in the console with:
