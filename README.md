@@ -1,4 +1,4 @@
-# TIY-1509
+![TIY](http://theironyard.com/images/home/tiy-logo.png)
 
 Can you please make sure you have Ruby installed. 
 
@@ -10,6 +10,7 @@ ruby 2.0.0p645
 
 Anything later that 1.9.0 is fine.
 
+You will also need a text editor - sublime is a good choice
 
 We will be using this Trello board - https://trello.com/b/mZn7EBmk/1509
 
