@@ -1,8 +1,6 @@
 # TIY-1509
 
-We will start at 6:10pm
-
-During this time can you please make sure you have Ruby installed. 
+Can you please make sure you have Ruby installed. 
 
 You can verify this in the console with:
 ```
