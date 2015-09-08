@@ -1,5 +1,4 @@
-![TIY](http://theironyard.com/images/home/tiy-logo.png)
-
+<div style="text-align:center"><img src ="http://theironyard.com/images/home/tiy-logo.png" /></div>
 Can you please make sure you have Ruby installed. 
 
 You can verify this in the console with:
