@@ -2,7 +2,10 @@ puts "Welcome to the Simulator!!!!!"
 
 correct_guess_count = 0
 
-5.times do 
+print "How many times do you want to run this:"
+loop_count = gets.chomp.to_i
+
+loop_count.times do 
 
 	card_1 = :joker
 	card_2 = :joker
@@ -32,3 +35,5 @@ correct_guess_count = 0
 	end
 end
 
+puts "Swapping was a bad idea: #{correct_guess_count}"
+puts "Swapping was a good idea: #{loop_count - correct_guess_count}"
